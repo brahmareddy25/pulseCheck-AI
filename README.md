@@ -1,0 +1,2 @@
+# pulseCheck-AI
+static one
